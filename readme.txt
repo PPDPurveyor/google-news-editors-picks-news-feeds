@@ -6,7 +6,7 @@ Donate link: http://www.googlenewsplugin.com
 Tags: Google News, Editors Picks, RSS, RSS feeds, feed generator, Google, seo, plugin, news sitemaps, google webmaster tools, webmaster tools
 Requires at least: 3.9
 Tested up to: 4.7
-Stable tag: 1.6.1
+Stable tag: 2.0
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
