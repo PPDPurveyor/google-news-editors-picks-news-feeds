@@ -1,5 +1,6 @@
 === Google News Editors Picks Feed Generator ===
 Contributors: Peoples_Pundit
+Version: 2.0
 Author URI: http://www.googlenewsplugin.com
 Donate link: http://www.googlenewsplugin.com
 Tags: Google News, Editors Picks, RSS, RSS feeds, feed generator, Google, seo, plugin, news sitemaps, google webmaster tools, webmaster tools
