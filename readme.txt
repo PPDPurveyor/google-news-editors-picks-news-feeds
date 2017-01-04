@@ -3,7 +3,7 @@ Contributors: Peoples_Pundit
 Author URI: http://www.googlenewsplugin.com
 Donate link: http://www.googlenewsplugin.com
 Tags: Google News, Editors Picks, RSS, RSS feeds, feed generator, Google, seo, plugin, news sitemaps, google webmaster tools, webmaster tools
-Requires at least: 3.7
+Requires at least: 4.0
 Tested up to: 4.7
 Stable tag: 1.6.1
 License: GPL v3
