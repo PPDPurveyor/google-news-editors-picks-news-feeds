@@ -136,6 +136,10 @@ WordPress was built to be tailored to blogs. News organizations publish "Article
 
 == Changelog ==
 
+= 2.0 - January 4, 2017 =
+
+**Fix**
+
 = 1.6.1 - June 9, 2015 =
 
 **Fix**
