@@ -4,7 +4,7 @@ Author URI: http://www.googlenewsplugin.com
 Donate link: http://www.googlenewsplugin.com
 Tags: Google News, Editors Picks, RSS, RSS feeds, feed generator, Google, seo, plugin, news sitemaps, google webmaster tools, webmaster tools
 Requires at least: 3.7
-Tested up to: 4.1
+Tested up to: 4.7
 Stable tag: 1.6.1
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -18,15 +18,13 @@ Customize required feed images, names, titles, descriptions and more! Exclude ar
 In order to have your website included in Google News, you will have to [suggest it for inclusion](https://support.google.com/news/publisher/answer/40787?hl=en) first. This plugin is nearly pointless without site inclusion.
 Serious news sites should consider upgrading to the [WordPress Google News Plugin](http://www.googlenewsplugin.com) to take advantage of all tools available to Google News Publishers and optimize their site for Google News.
 
-
-
 = RSS Features: =
 
 * Set default values and customize RSS feeds
 * Branding matters! Add required images/logos to EACH Google News Editors’ Picks RSS Feeds
-* Exclude/include articles from the feeds from lightweight custom meta box
-* Custom meta box includes powerful qTip2 tooltip helper popup window functions
-* Use [Custom Meta Box](http://googlenewsplugin.com/custom-meta-boxes/) to tailor feed-friendly description for news feeds. (A big deal when exporting RSS picks)
+* Exclude/include articles from the feeds from a lightweight custom meta box on the edit-post/new-post screens.
+* Custom meta box includes powerful Smallipop tooltip helper for popup window functions
+* Use [Custom Meta Box](http://www.googlenewsplugin.com/custom-meta-boxes/) to tailor feed-friendly description for news feeds. (A big deal when exporting RSS picks)
 * Ping Webmaster Tools when feeds are updated with smart ping technology
 * Google News Publisher Help Forum Resources menu, including feed validator
 * Easy submission to set Editors’ Picks RSS feeds in Google Webmaster Tools
@@ -34,41 +32,58 @@ Serious news sites should consider upgrading to the [WordPress Google News Plugi
 
 = Premium features: =
 
+* Preimum WordPress Google News Plugin completely optimizes your site for Google News and ensures you meet all the General and Technical Guidelines!
 * Easy Single & Multi-Site Setup: Set easy-to-override default values for news sitemap and customize RSS feeds
+* The MOST detailed Schema.org markup for In-Depth Articles via JSON-LD
 * Branding Matters: Add required images/logos to EACH Google News Editors’ Picks RSS Feeds
-* Write It Right: Use [Custom Meta Box](http://googlenewsplugin.com/custom-meta-boxes/) to tailor feed-friendly description for news feeds. (A big deal when exporting RSS picks)
+* Write It Right: Use [Custom Meta Box](http://www.googlenewsplugin.com/custom-meta-boxes/) to tailor feed-friendly description for news feeds. (A big deal when exporting RSS picks)
 * Only The News: Exclude articles from XML Google News Sitemap and news feeds from lightweight Custom Meta Box
-* Easy & Lightweight: [Custom Meta Box](http://googlenewsplugin.com/custom-meta-boxes/) includes powerful qTip2 tooltip helper popup window functions
+* Easy & Lightweight: [Custom Meta Box](http://www.googlenewsplugin.com/custom-meta-boxes/) includes powerful Smallipop tooltip helper popup window functions
 * Get Featured On Google News: Add [standout tag](http://googlenewsplugin.com/standout-tag-plus-tracker/) to standout content to highlight exceptional journalism and get featured on Google News
 * Use It, Not Abuse It: [Standout Tag PLUS Tracker©](http://googlenewsplugin.com/standout-tag-plus-tracker/) tracks number of articles tagged as standout content to ensure compliance with Google terms of use
 * Search Engine Optimization: Correctly add up to 10 news_keywords metatag for SEO | [news_keywords metatags Vs. XML tags](http://bit.ly/1z0GXHT)
-* Give Credit Where Credit Is Due: Include both [syndication-source metatag and original-source metatag](http://googlenewsplugin.com/news-tags/) (i.e. guest or re-published contributor content)
-* Get Articles Indexed Fast: Generate feature-rich [XML Google News Sitemap](http://googlenewsplugin.com/google-news-sitemap-generator/) that will get your stories up on Google News in minutes!
+* Give Credit Where Credit Is Due: Include both [syndication-source metatag and original-source metatag](http:www.//googlenewsplugin.com/news-tags/) (i.e. guest or re-published contributor content)
+* Get Articles Indexed Fast: Generate feature-rich [XML Google News Sitemap](http:www.//googlenewsplugin.com/google-news-sitemap-generator/) that will get your stories up on Google News in minutes!
 * Find Interested Readers: Add up to 12 news:keywords XML tags to news sitemap that will get your stories indexed in the correct location, fast!
 * Google Finance Pays: Add up to 5 news:stock_tickers XML tags to news sitemap that will get your stories indexed on Google Finance, fast!
 * Google Hates Spammers: Ping Webmaster Tools when news sitemap and RSS news feeds are updated with smart ping technology
 * Get A Clue: Expanded Google News Publisher Help Forum Resources menu, including feed validator, Associate YouTube, etc.
 * Easy Integration: Easy submission for XML News Sitemap and Editors’ Picks RSS feeds to Google Webmaster Tools
 
-= WordPress Google News Plugin 2.0 Release Announcement: =
+= WordPress Google News Plugin 2.7.7 Release Announcement: =
 
+* Easily enable/disable Post to Article Label conversion
 * Ability to add Subtitles without theme coding
-* Schema In-Depth Article Markup
-* Schema Organization Markup 
+* Schema In-Depth Article Markup (JSON-LD)
+* Choose Types: Article, News Article, Scholarly Article, Tech-specific and much more!
+* Schema Organization Markup (JSON-LD)
+* Enable Google Sitelinks (JSON-LD)
 * Social Network Knowledge Graph
-* Schema Itemprop tags and other features prioritized by Google on the Google News platform
-* Changed "Exclude" articles from Google News Editors' Picks feeds to "Include" articles
+* Schema.org tags and other features prioritized by Google on the Google News platform
+* Exclude public and custom post_types from Google News Sitemap and Editors' Picks feeds
 * Added WP admin top menu bar for convenient access to multiple features
+* So much more!
 
-= Add On =
+== Add-Ons ==
 
-* Post to Article Label conversion 
+= Editors‘ Picks Top Stories Widget for Clicky =
 
-What is the Post to Article Label conversion add-on? WordPress is tailored to blogs even after all these years. News organizations publish "Articles," not "Posts." Schema relies on "Article" markup, not "Post" markup. So, we should, too. The conversion will change the label on the WP dashboard and output to Article(s), without destroying past projects.
+* Displays your top content based on Clicky stats in the sidebar.
+* Widget supports all public post types, per default: posts, pages and attachments, as well as custom post types
+* Mimics the appearance of the frequently-requested Google News Editors Picks Widget on the Google News Platform
+* Promote or advertisement you site’s mobile app(s), if you have versions on Google Play and/or iTunes
+* Social sharing icons for Facebook, Twitter, Google Plus, Linkedin, Pinterest and Email
+* Customize various styles for the titles and icons, such as color and size
+* No new stylesheet, and plugin auto-minifies css on pages widget is present
+* Icons  are SVG and only called when needed
+
+If you’d like a widget based on statistics from JetPack or Google Analytics, please contact us.
+
+[Buy Now/Read More](http://www.googlenewsplugin.com/downloads/editors-picks-top-stories-widget-clicky/)
 
 And there's more...
 
-Upgrade to the [WordPress Google News Plugin](http://www.googlenewsplugin.com) or view plugin site to learn about consolidating your publisher options into one, lightweight server-load saving plugin.
+Upgrade to the [WordPress Google News Plugin](http://www.googlenewsplugin.com/downloads/wordpress-google-news-plugin/) or view [Website](http://www.googlenewsplugin.com/) to learn about consolidating your publisher options into one, lightweight server-load saving plugin.
 
 = Multi-Site Compatible =
 This plugin, unlike some others, is fully Multi-Site compatible. The feeds work in the Network settings and you can copy the settings from one blog to another, or make blogs default to the settings for a specific blog.
@@ -114,6 +129,10 @@ For more information on how to set up your custom Editors’ Picks, read the [fo
 
 Good news! No. Without getting into the weeds, if you follow the instructions (i.e. deactivate feeds plugin first) the premium version will use the same database table and settings.
 
+= What is the Post to Article Label conversion feature? =
+
+WordPress was built to be tailored to blogs. News organizations publish "Articles," not "Posts." Google News-Bot wants Schema.org to rely on "Article" and "News Article" markup, not "BlogPosting" markup. So, we should give them what they want. The conversion will change the label on the WP dashboard and output to Article(s), without destroying past projects.
+
 == Changelog ==
 
 = 1.6.1 - June 9, 2015 =
@@ -150,4 +169,4 @@ Good news! No. Without getting into the weeds, if you follow the instructions (i
 * Version 1.0 Initial Release
 
 == Tags ==
-Google News, Editors Picks, RSS, RSS feeds, feed generator, Google, seo, plugin, news sitemaps, google webmaster tools, webmaster tools
+Google News, Editors Picks, RSS, RSS feeds, Feed Generator, Google, SEO, Plugin, News Sitemaps, Google Webmaster Tools, Webmaster Tools
